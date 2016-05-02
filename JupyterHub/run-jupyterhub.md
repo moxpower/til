@@ -3,7 +3,7 @@
 ```bash
 # change to root
 sudo su -
-# start tmux
+# start tmux (or reattach w/ tmux attach)
 tmux
 
 # source conda environment
