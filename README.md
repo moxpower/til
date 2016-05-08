@@ -8,6 +8,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 
 ### Categories
 
+* [bash](#bash)
 * [conda](#conda)
 * [python](#python)
 * [Jupyter](#jupyter)
@@ -15,6 +16,10 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 * [Markdown](#markdown)
 
 ---
+
+### bash
+
+- [Git command line tricks](bash/git-command-line.md)
 
 ### conda
 
