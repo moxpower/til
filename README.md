@@ -14,6 +14,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 * [Jupyter](#jupyter)
 * [JupyterHub](#jupyterhub)
 * [Markdown](#markdown)
+* [Mac](#mac)
 
 ---
 
@@ -46,6 +47,8 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
  - [Linking in GitHub](markdown/create-links.md)
 
 
+### Mac
 
+ - [Setting up Homebrew](mac/setup-homebrew.md)
 
 
