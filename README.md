@@ -13,8 +13,9 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 * [python](#python)
 * [Jupyter](#jupyter)
 * [JupyterHub](#jupyterhub)
-* [Markdown](#markdown)
 * [Mac](#mac)
+* [Markdown](#markdown)
+* [Matplotlib](#matplotlib)
 
 ---
 
@@ -42,13 +43,16 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 - [Install new named kernel](jupyterhub/create-new-kernel.md)
 - [If high memory usage turn off caching](jupyterhub/turn-off-caching.md)
 
-### Markdown
-
- - [Linking in GitHub](markdown/create-links.md)
-
-
 ### Mac
 
  - [Setting up Homebrew](mac/setup-homebrew.md)
 
+### Markdown
 
+ - [Linking in GitHub](markdown/create-links.md)
+
+### Matplotlib
+
+ - [Using seaborn color palettes](matplotlib/using-seaborn-color-palette.md)
+
+ 
