@@ -41,6 +41,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 - [Installing on CentOS](jupyterhub/install-jupyterhub.md)
 - [Running JupyterHub](jupyterhub/run-jupyterhub.md)
 - [Install new named kernel](jupyterhub/create-new-kernel.md)
+- [Turn on nbextensions](jupyterhub/extensions.md)
 - [If high memory usage turn off caching](jupyterhub/turn-off-caching.md)
 
 ### Mac
