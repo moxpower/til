@@ -16,6 +16,7 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 * [Mac](#mac)
 * [Markdown](#markdown)
 * [Matplotlib](#matplotlib)
+* [VPFIT](#vpfit)
 
 ---
 
@@ -56,5 +57,9 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 
  - [Using seaborn color palettes](matplotlib/using-seaborn-color-palette.md)
  - [Handle jpg file format](matplotlib/jpeg-support.md)
+
+### VPFIT 
+
+ - [Install on Mac](vpfit/install-on-mac.md)
 
  
