@@ -55,5 +55,6 @@ A collection of useful technical notes, inspired by jbranchaud's [TIL](https://g
 ### Matplotlib
 
  - [Using seaborn color palettes](matplotlib/using-seaborn-color-palette.md)
+ - [Handle jpg file format](matplotlib/jpeg-support.md)
 
  
