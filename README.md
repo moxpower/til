@@ -9,7 +9,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 ### Categories
 
 * [business](#business)
-
+* [English](#English)
 
 ---
 
@@ -17,3 +17,6 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 
 - [Playbook](business/playbook.md)
 
+### English
+
+- [Capitalization](English/Capitalization.md)
