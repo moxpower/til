@@ -1,3 +1,3 @@
-# Playbook for how to run a company and make successful web stuff
+# Country names
 
-Go [here](https://thoughtbot.com/playbook)
+Countries, nationalities, and languages are always capitalized as they are proper nouns. Also when used as **adjective**, see [link](http://english.stackexchange.com/questions/381/when-should-the-word-english-be-capitalized).
