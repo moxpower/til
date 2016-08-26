@@ -10,6 +10,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 
 * [business](#business)
 * [English](#English)
+* [HTML](#HTML)
 
 ---
 
@@ -20,3 +21,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 ### English
 
 - [Capitalization](English/Capitalization.md)
+
+### HTML
+
+- [Padding](HTML/padding.md)
