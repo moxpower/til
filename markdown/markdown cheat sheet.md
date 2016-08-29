@@ -14,3 +14,7 @@ To change the font size, place the text in a span and edit the relative font siz
 ```
 [This text will be displayed](#ReferencedHeadline) 
 ```
+
+# Specify reference below the text
+[Yahoo][]
+[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
