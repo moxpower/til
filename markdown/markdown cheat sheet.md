@@ -1,3 +1,6 @@
+# Cheat sheet
+[Here is a good description of markdown syntax](https://daringfireball.net/projects/markdown/syntax#p) 
+
 # Change font size
 
 To change the font size, place the text in a span and edit the relative font size:
