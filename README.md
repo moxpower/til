@@ -11,6 +11,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 * [business](#business)
 * [English](#English)
 * [HTML](#HTML)
+* [jupyter notebook](#jupyter notebook)
 
 ---
 
@@ -29,3 +30,6 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 ### markdown
 
 - [Markdown cheat sheet](markdown/markdown cheat sheet.md)
+
+### jupyter notebook
+- [How to create nice and shiny online notebooks](jupyter notebook/nbviewer without trash.md)
