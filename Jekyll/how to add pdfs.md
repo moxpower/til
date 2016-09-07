@@ -20,7 +20,6 @@ permalink: /writing/creation-of-a-landscape/
 In case you want to create blank markdown pages, create a new layout:
 
 ```html
-<
 <!DOCTYPE html>
 <html>
   <body>
