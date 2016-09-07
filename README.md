@@ -12,6 +12,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 * [English](#English)
 * [HTML](#HTML)
 * [jupyter notebook](#jupyter notebook)
+* [Jekyll](#Jekyll)
 
 ---
 
@@ -33,3 +34,6 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 
 ### jupyter notebook
 - [How to create nice and shiny online notebooks](jupyter notebook/nbviewer without trash.md)
+
+### Jekyll
+- [how to add pdfs](Jekyll/how to add pdfs.md)
