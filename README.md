@@ -20,6 +20,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 ### business
 
 - [Playbook](business/playbook.md)
+- [Scrum](business/Scrum.md)
 
 ### English
 
