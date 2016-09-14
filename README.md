@@ -39,5 +39,5 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 ### Jekyll
 - [how to add pdfs](Jekyll/how to add pdfs.md)
 
-### C"#"
+### C'#'
 - [Serialization](C%23/Serialization.md)
