@@ -41,3 +41,4 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 
 ### C'#'
 - [Serialization](C%23/Serialization.md)
+- [Asynchronous programming](C%23/AsyncAwait.md)
