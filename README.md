@@ -13,6 +13,7 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 * [HTML](#HTML)
 * [jupyter notebook](#jupyter notebook)
 * [Jekyll](#Jekyll)
+* [C#](#C#)
 
 ---
 
@@ -37,3 +38,6 @@ A collection of useful technical notes, inspired by thoughtbot's [TIL](https://g
 
 ### Jekyll
 - [how to add pdfs](Jekyll/how to add pdfs.md)
+
+### C#
+- [Serialization](C#/Serialization.md)
